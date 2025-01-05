@@ -7,7 +7,7 @@ I am a Business Analyst, Public Health Professional, and Researcher. Passionate 
 ## 🏗️ Projects
 
 ### 1️⃣ Optimizing Primary Healthcare Delivery for the NHS
-![Project Image]([https://via.placeholder.com/150](https://github.com/babajideolayemi28/business-analyst-portfolio.io/blob/main/images/Picture1.jpg))  
+![Project Image](/images/Picture1.jpg))  
 I worked to address disparities in healthcare access and outcomes by leveraging data insights, engaging stakeholders, and developing innovative solutions for underserved populations. My contributions to the "Optimizing Primary Healthcare Delivery for the NHS" project focused on creating equitable, efficient, and patient-centered healthcare systems.
 **Role**:  
 <div style="text-align: justify;">
