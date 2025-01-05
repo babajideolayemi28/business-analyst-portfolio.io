@@ -7,7 +7,7 @@ I am a Business Analyst, Public Health Professional, and Researcher. Passionate 
 ## 🏗️ Projects
 
 ### 1️⃣ Optimizing Primary Healthcare Delivery for the NHS
-![Project Image](/images/Picture1.jpg))  
+<img src="/images/Picture1.jpg" alt="Project Image" style="width:200px; height:auto;">
 I worked to address disparities in healthcare access and outcomes by leveraging data insights, engaging stakeholders, and developing innovative solutions for underserved populations. My contributions to the "Optimizing Primary Healthcare Delivery for the NHS" project focused on creating equitable, efficient, and patient-centered healthcare systems.
 **Role**:  
 <div style="text-align: justify;">
@@ -46,7 +46,7 @@ I worked to address disparities in healthcare access and outcomes by leveraging 
 
 ---
 ### 2️⃣ Addressing Pain Points in Canadian Emergency Response Benefits
-![Project Image](https://via.placeholder.com/150)  
+<img src="/images/Picture2.jpg" alt="Project Image" style="width:200px; height:auto;">
 I worked to improve the efficiency and equity of Canada’s Emergency Response Benefits system by identifying bottlenecks and proposing actionable solutions.
 
 **Role**:  
@@ -71,7 +71,7 @@ I worked to improve the efficiency and equity of Canada’s Emergency Response B
 ---
 
 ### 3️⃣ Enhancing Public Health Emergency Preparedness
-![Project Image](https://via.placeholder.com/150)  
+<img src="/images/Picture3.jpg" alt="Project Image" style="width:200px; height:auto;">
 This project aimed to improve the preparedness of Canada’s public health systems for future health emergencies.
 
 **Role**:  
@@ -101,7 +101,7 @@ This project aimed to improve the preparedness of Canada’s public health syste
 ---
 
 ### 4️⃣ Building Berkshire Together - New Hospital Programme
-![Project Image](https://via.placeholder.com/150)  
+<img src="/images/Picture4.jpg" alt="Project Image" style="width:200px; height:auto;">
 I worked to ensure equitable healthcare access by addressing disparities within underserved populations as part of the New Hospital Programme.
 
 **Role**:  
@@ -124,7 +124,7 @@ I worked to ensure equitable healthcare access by addressing disparities within 
 ---
 
 ### 5️⃣ NHS Health Checks Program
-![Project Image](https://via.placeholder.com/150)  
+<img src="/images/Picture5.jpg" alt="Project Image" style="width:200px; height:auto;">
 I contributed to the successful rollout and evaluation of NHS Health Checks, focusing on improving accessibility and outcomes for priority populations.
 
 **Role**:  
@@ -147,7 +147,7 @@ I contributed to the successful rollout and evaluation of NHS Health Checks, foc
 ---
 
 ### 6️⃣ The E-Commercialisation Project
-![Project Image](https://via.placeholder.com/150)  
+<img src="/images/Picture5.jpg" alt="Project Image" style="width:200px; height:auto;">
 This project focused on transforming traditional business models into scalable digital platforms.
 
 **Role**:  
