@@ -9,9 +9,9 @@ I am a Business Analyst, Public Health Professional, and Researcher. Passionate 
 ### 1️⃣ Optimizing Primary Healthcare Delivery for the NHS
 <img src="/images/Picture1.jpg" alt="Project Image" style="width:200px; height:auto;">
 I worked to address disparities in healthcare access and outcomes by leveraging data insights, engaging stakeholders, and developing innovative solutions for underserved populations. My contributions to the "Optimizing Primary Healthcare Delivery for the NHS" project focused on creating equitable, efficient, and patient-centered healthcare systems.
-**Role**:  
-<div style="text-align: justify;">
 
+**Role**:  
+ 
 1. **Analyzing Health Inequalities**:  
    - Mapped out disparities in access to primary healthcare services using population health data, workshops, focus group discussion.
    - Identified barriers and provided data-driven recommendations to bridge gaps in care for marginalized communities.
@@ -31,17 +31,12 @@ I worked to address disparities in healthcare access and outcomes by leveraging 
 5. **Policy Alignment:**:
    - Aligned project strategies with NHS England's goals to reduce health inequalities and enhance patient care.
    - Contributed to policy briefs that integrate equity-focused practices into primary care delivery.
-</div>
 
 **Key Achievements**:  
-<div style="text-align: justify;">
-   <ul>
-      <li>Designed a framework to monitor and evaluate the impact of healthcare delivery models on reducing health inequalities.</li>
-      <li>Strengthened partnerships between NHS and community stakeholders, fostering trust and improving participation in healthcare initiatives by 5%.</li>
-      <li>Strengthened partnerships between NHS and community stakeholders, fostering trust and improving participation in healthcare initiatives by 5%.</li>
-      <li>Delivered resources to NHS and other political partners to enhance their understanding of social determinants of health and cultural competence.</li>
-   </ul>
-</div>
+- Designed a framework to monitor and evaluate the impact of healthcare delivery models on reducing health inequalities.</li>
+- Strengthened partnerships between NHS and community stakeholders, fostering trust and improving participation in healthcare initiatives by 5%.</li>
+- Strengthened partnerships between NHS and community stakeholders, fostering trust and improving participation in healthcare initiatives by 5%.</li>
+- Delivered resources to NHS and other political partners to enhance their understanding of social determinants of health and cultural competence.</li>
 
 
 ---
